@@ -31,9 +31,9 @@ jobs:
       # Step 4: Run tests
       - name: Run tests
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_API_KEY: "sk-fake-key-for-testing"
         run: |
-          pytest tests/ -v
+          pytest tests/ -v --tb=short
 
   docker:
     runs-on: ubuntu-latest

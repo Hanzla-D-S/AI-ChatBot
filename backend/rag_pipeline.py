@@ -79,9 +79,16 @@ def load_rag_chain():
 
 
 # Global chain instance (loaded once when backend starts)
-rag_chain = load_rag_chain()
+rag_chain = None
+
+def get_or_create_chain():
+    global rag_chain
+    if rag_chain is None:
+        rag_chain = load_rag_chain()
+    return rag_chain
 
 
 def get_response(user_message: str) -> str:
-    result = rag_chain({"question": user_message})
+    chain = get_or_create_chain()
+    result = chain({"question": user_message})
     return result["answer"]
