@@ -1,0 +1,91 @@
+ShopEasy E-Commerce Store - Customer Support FAQ
+
+=== ORDERS ===
+
+Q: How do I place an order?
+A: Browse our website, add items to your cart, and proceed to checkout. You can pay using credit card, debit card, or JazzCash/EasyPaisa.
+
+Q: Can I cancel my order?
+A: Yes, you can cancel your order within 24 hours of placing it. Go to My Orders > Select Order > Click Cancel. After 24 hours, cancellation is not possible if the item has been shipped.
+
+Q: How do I track my order?
+A: Once your order is shipped, you will receive an SMS and email with a tracking number. You can track it on our website under My Orders or via the courier's website.
+
+Q: What if I received a wrong item?
+A: We apologize for the inconvenience. Please contact support within 48 hours with a photo of the wrong item. We will arrange a free return and send the correct item within 3-5 business days.
+
+=== SHIPPING ===
+
+Q: How long does delivery take?
+A: Standard delivery takes 3-5 business days. Express delivery (1-2 business days) is available for major cities like Karachi, Lahore, and Islamabad for an extra Rs. 150.
+
+Q: Is there free shipping?
+A: Yes! Orders above Rs. 2,000 get free standard shipping. Orders below Rs. 2,000 have a flat shipping fee of Rs. 99.
+
+Q: Do you ship internationally?
+A: Currently we only ship within Pakistan. International shipping will be available soon.
+
+Q: What cities do you deliver to?
+A: We deliver to all major cities including Karachi, Lahore, Islamabad, Rawalpindi, Faisalabad, Multan, Peshawar, and 200+ other cities across Pakistan.
+
+=== RETURNS & REFUNDS ===
+
+Q: What is your return policy?
+A: We offer a 7-day easy return policy. Items must be unused, in original packaging, with tags attached. Electronics have a 3-day return window.
+
+Q: How do I return an item?
+A: Go to My Orders > Select the item > Click Return > Choose reason > Schedule pickup. Our rider will collect the item from your doorstep for free.
+
+Q: When will I get my refund?
+A: Refunds are processed within 5-7 business days after we receive and inspect the returned item. The amount is credited back to your original payment method.
+
+Q: Can I exchange an item instead of returning it?
+A: Yes! You can request an exchange for a different size or color. Go to My Orders > Select item > Click Exchange. Exchanges are free of charge.
+
+=== PAYMENTS ===
+
+Q: What payment methods do you accept?
+A: We accept Visa, Mastercard, JazzCash, EasyPaisa, bank transfer, and Cash on Delivery (COD).
+
+Q: Is Cash on Delivery available?
+A: Yes, COD is available for orders up to Rs. 15,000. A small COD fee of Rs. 50 applies.
+
+Q: Is my payment information secure?
+A: Yes, all payments are encrypted with SSL technology. We never store your card details on our servers.
+
+Q: I was charged but my order was not placed. What do I do?
+A: This can happen due to a technical glitch. Please contact our support team with your transaction ID and we will resolve it within 24 hours — you will either receive a confirmation or a full refund.
+
+=== ACCOUNT ===
+
+Q: How do I create an account?
+A: Click Sign Up on our homepage, enter your name, email, and phone number, then verify your number with an OTP.
+
+Q: I forgot my password. How do I reset it?
+A: Click Forgot Password on the login page, enter your email, and follow the link sent to your inbox to reset your password.
+
+Q: Can I use ShopEasy without creating an account?
+A: Yes, you can checkout as a guest. However, creating an account lets you track orders, save addresses, and get exclusive deals.
+
+=== PRODUCTS ===
+
+Q: Are your products original and authentic?
+A: Yes, all products on ShopEasy are 100% authentic. We source directly from verified brands and authorized distributors.
+
+Q: What if a product is out of stock?
+A: You can click Notify Me on the product page and we will send you an SMS/email when it is back in stock.
+
+Q: Do you offer warranties on electronics?
+A: Yes, all electronics come with a minimum 1-year brand warranty. Warranty cards are included in the package.
+
+=== CONTACT & SUPPORT ===
+
+Q: How can I contact customer support?
+A: You can reach us via:
+- Live Chat on our website (9 AM - 9 PM)
+- WhatsApp: 0300-1234567
+- Email: support@shopeasy.pk
+- Phone: 042-12345678
+
+Q: What are your support hours?
+A: Our support team is available 7 days a week from 9 AM to 9 PM Pakistan Standard Time.
