@@ -10,7 +10,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 # Build vector store at image build time
-RUN python backend/ingest.py
+# RUN python backend/ingest.py
 
 # Expose Hugging Face default port
 EXPOSE 7860
