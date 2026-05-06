@@ -16,8 +16,6 @@ pinned: false
 
 An AI-powered customer support chatbot built with RAG, LangChain, FastAPI and Streamlit.
 
-🔗 **[Live Demo](https://hanzlainam-shopeasy-chatbot.hf.space)**
-
 ---
 
 ## Features
